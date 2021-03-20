@@ -1,2 +1,0 @@
-# excel-challenge
-Kickstarter Campaign
